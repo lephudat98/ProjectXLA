@@ -1,21 +1,147 @@
-G:\qimage\object0016.view02.png	 match value: 424
-G:\qimage\object0016.view03.png	 match value: 460
-G:\qimage\object0016.view04.png	 match value: 438
-G:\qimage\object0016.view05.png	 match value: 460
-G:\qimage\object0017.view01.png	 match value: 304
-G:\qimage\object0017.view02.png	 match value: 459
-G:\qimage\object0017.view03.png	 match value: 413
-G:\qimage\object0017.view04.png	 match value: 330
-G:\qimage\object0017.view05.png	 match value: 437
-G:\qimage\object0018.view01.png	 match value: 274
-G:\qimage\object0018.view02.png	 match value: 391
-G:\qimage\object0018.view03.png	 match value: 243
-G:\qimage\object0018.view04.png	 match value: 456
-G:\qimage\object0018.view05.png	 match value: 393
-G:\qimage\object0019.view01.png	 match value: 236
-G:\qimage\object0019.view0112421351.JPG	 match value: 460
-G:\qimage\object0019.view02.png	 match value: 460
-G:\qimage\object0019.view03.png	 match value: 298
-G:\qimage\object0019.view04.png	 match value: 195
-G:\qimage\object0019.view05.png	 match value: 329
-G:\qimage\object0019.view06.JPG	 match value: 460
+ normal and good match size: 910	909 match value: 0.998901	G:\qimage\object0189.view05.png 
+ normal and good match size: 910	865 match value: 0.950549	G:\qimage\object0020.view05.png 
+ normal and good match size: 910	854 match value: 0.938462	G:\qimage\object0199.view02.png 
+ normal and good match size: 910	790 match value: 0.868132	G:\qimage\object0186.view04.png 
+ normal and good match size: 910	326 match value: 0.358242	G:\qimage\object0019.view0112421351.JPG 
+ normal and good match size: 910	655 match value: 0.71978	G:\qimage\object0018.view01.png 
+ normal and good match size: 910	886 match value: 0.973626	G:\qimage\object0019.view06.JPG 
+ normal and good match size: 910	712 match value: 0.782418	G:\qimage\object0022.view02.png 
+ normal and good match size: 910	646 match value: 0.70989	G:\qimage\object0185.view03.png 
+ normal and good match size: 910	857 match value: 0.941758	G:\qimage\object0190.view05.png 
+ normal and good match size: 910	833 match value: 0.915385	G:\qimage\object0196.view04.png 
+ normal and good match size: 910	847 match value: 0.930769	G:\qimage\object0016.view04.png 
+ normal and good match size: 910	909 match value: 0.998901	G:\qimage\object0191.view04.png 
+ normal and good match size: 910	744 match value: 0.817582	G:\qimage\object0017.view05.png 
+ normal and good match size: 910	563 match value: 0.618681	G:\qimage\object0197.view04.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0024.view04.png 
+ normal and good match size: 910	719 match value: 0.79011	G:\qimage\object0021.view03.png 
+ normal and good match size: 910	717 match value: 0.787912	G:\qimage\object0189.view04.png 
+ normal and good match size: 910	594 match value: 0.652747	G:\qimage\object0191.view02.png 
+ normal and good match size: 910	846 match value: 0.92967	G:\qimage\object0016.view03.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0201.view02.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0196.view03.png 
+ normal and good match size: 910	791 match value: 0.869231	G:\qimage\object0020.view03.png 
+ normal and good match size: 910	876 match value: 0.962637	G:\qimage\object0026.view04.png 
+ normal and good match size: 910	745 match value: 0.818681	G:\qimage\object0193.view02.png 
+ normal and good match size: 910	856 match value: 0.940659	G:\qimage\object0187.view01.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0020.view02.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0019.view05.png 
+ normal and good match size: 910	624 match value: 0.685714	G:\qimage\object0023.view03.png 
+ normal and good match size: 910	614 match value: 0.674725	G:\qimage\object0198.view03.png 
+ normal and good match size: 910	652 match value: 0.716484	G:\qimage\object0193.view01.png 
+ normal and good match size: 910	745 match value: 0.818681	G:\qimage\object0024.view02.png 
+ normal and good match size: 910	689 match value: 0.757143	G:\qimage\object0194.view04.png 
+ normal and good match size: 910	226 match value: 0.248352	G:\qimage\object0196.view05.png 
+ normal and good match size: 910	563 match value: 0.618681	G:\qimage\object0195.view02.png 
+ normal and good match size: 910	712 match value: 0.782418	G:\qimage\object0025.view02.png 
+ normal and good match size: 910	351 match value: 0.385714	G:\qimage\object0198.view01.png 
+ normal and good match size: 910	486 match value: 0.534066	G:\qimage\object0187.view03.png 
+ normal and good match size: 910	679 match value: 0.746154	G:\qimage\object0188.view02.png 
+ normal and good match size: 910	566 match value: 0.621978	G:\qimage\object0016.view05.png 
+ normal and good match size: 910	460 match value: 0.505495	G:\qimage\object0018.view05.png 
+ normal and good match size: 910	816 match value: 0.896703	G:\qimage\object0192.view03.png 
+ normal and good match size: 910	294 match value: 0.323077	G:\qimage\object0027.view02.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0191.view03.png 
+ normal and good match size: 910	714 match value: 0.784615	G:\qimage\object0021.view04.png 
+ normal and good match size: 910	910 match value: 1	G:\qimage\object0196.view02.png 
+ normal and good match size: 910	686 match value: 0.753846	G:\qimage\object0018.view03.png 
+ normal and good match size: 910	859 match value: 0.943956	G:\qimage\object0192.view05.png 
+ normal and good match size: 910	545 match value: 0.598901	G:\qimage\object0199.view04.png 
+ normal and good match size: 910	789 match value: 0.867033	G:\qimage\object0022.view05.png 
+ normal and good match size: 910	878 match value: 0.964835	G:\qimage\object0200.view01.png 
+ normal and good match size: 910	815 match value: 0.895604	G:\qimage\object0200.view05.png 
+ normal and good match size: 910	744 match value: 0.817582	G:\qimage\object0022.view03.png 
+ normal and good match size: 910	439 match value: 0.482418	G:\qimage\object0188.view04.png 
+ normal and good match size: 910	834 match value: 0.916484	G:\qimage\object0190.view01.png 
+ normal and good match size: 910	898 match value: 0.986813	G:\qimage\object0189.view03.png 
+ normal and good match size: 910	844 match value: 0.927473	G:\qimage\object0186.view05.png 
+ normal and good match size: 910	784 match value: 0.861538	G:\qimage\object0185.view02.png 
+ normal and good match size: 910	847 match value: 0.930769	G:\qimage\object0197.view03.png 
+ normal and good match size: 910	506 match value: 0.556044	G:\qimage\object0187.view05.png 
+ normal and good match size: 910	752 match value: 0.826374	G:\qimage\object0188.view03.png 
+ normal and good match size: 910	879 match value: 0.965934	G:\qimage\object0016.view02.png 
+ normal and good match size: 910	789 match value: 0.867033	G:\qimage\object0191.view01.png 
+ normal and good match size: 910	593 match value: 0.651648	G:\qimage\object0187.view02.png 
+ normal and good match size: 910	781 match value: 0.858242	G:\qimage\object0192.view01.png 
+ normal and good match size: 910	763 match value: 0.838462	G:\qimage\object0192.view02.png 
+ normal and good match size: 910	876 match value: 0.962637	G:\qimage\object0018.view02.png 
+ normal and good match size: 910	575 match value: 0.631868	G:\qimage\object0195.view01.png 
+ normal and good match size: 910	826 match value: 0.907692	G:\qimage\object0190.view03.png 
+ normal and good match size: 910	586 match value: 0.643956	G:\qimage\object0201.view05.png 
+ normal and good match size: 910	627 match value: 0.689011	G:\qimage\object0198.view02.png 
+ normal and good match size: 910	793 match value: 0.871429	G:\qimage\object0027.view03.png 
+ normal and good match size: 910	853 match value: 0.937363	G:\qimage\object0186.view03.png 
+ normal and good match size: 910	832 match value: 0.914286	G:\qimage\object0019.view01.png 
+ normal and good match size: 910	866 match value: 0.951648	G:\qimage\object0194.view03.png 
+ normal and good match size: 910	871 match value: 0.957143	G:\qimage\object0201.view01.png 
+ normal and good match size: 910	676 match value: 0.742857	G:\qimage\object0027.view01.png 
+ normal and good match size: 910	766 match value: 0.841758	G:\qimage\object0023.view04.png 
+ normal and good match size: 910	578 match value: 0.635165	G:\qimage\object0020.view04325134.JPG 
+ normal and good match size: 910	435 match value: 0.478022	G:\qimage\object0187.view04.png 
+ normal and good match size: 910	510 match value: 0.56044	G:\qimage\object0193.view03.png 
+ normal and good match size: 910	752 match value: 0.826374	G:\qimage\object0189.view02.png 
+ normal and good match size: 910	623 match value: 0.684615	G:\qimage\object0195.view05.png 
+ normal and good match size: 910	704 match value: 0.773626	G:\qimage\object0188.view05.png 
+ normal and good match size: 910	472 match value: 0.518681	G:\qimage\object0197.view02.png 
+ normal and good match size: 910	33 match value: 0.0362637	G:\qimage\object0019.view02.png 
+ normal and good match size: 910	742 match value: 0.815385	G:\qimage\object0192.view04.png 
+ normal and good match size: 910	362 match value: 0.397802	G:\qimage\object0185.view04.png 
+ normal and good match size: 910	796 match value: 0.874725	G:\qimage\object0019.view58173246704.JPG 
+ normal and good match size: 910	462 match value: 0.507692	G:\qimage\object0199.view03.png 
+ normal and good match size: 910	606 match value: 0.665934	G:\qimage\object0020.view01.png 
+ normal and good match size: 910	477 match value: 0.524176	G:\qimage\object0023.view02.png 
+ normal and good match size: 910	832 match value: 0.914286	G:\qimage\object0025.view01.png 
+ normal and good match size: 910	883 match value: 0.97033	G:\qimage\object0021.view01.png 
+ normal and good match size: 910	901 match value: 0.99011	G:\qimage\object0199.view05.png 
+ normal and good match size: 910	825 match value: 0.906593	G:\qimage\object0197.view01.png 
+ normal and good match size: 910	677 match value: 0.743956	G:\qimage\object0200.view04.png 
+ normal and good match size: 910	812 match value: 0.892308	G:\qimage\object0017.view04.png 
+ normal and good match size: 910	655 match value: 0.71978	G:\qimage\object0200.view02.png 
+ normal and good match size: 910	771 match value: 0.847253	G:\qimage\object0023.view05.png 
+ normal and good match size: 910	618 match value: 0.679121	G:\qimage\object0018.view04.png 
+ normal and good match size: 910	210 match value: 0.230769	G:\qimage\object0021.view05.png 
+ normal and good match size: 910	335 match value: 0.368132	G:\qimage\object0194.view05.png 
+ normal and good match size: 910	681 match value: 0.748352	G:\qimage\object0200.view03.png 
+ normal and good match size: 910	783 match value: 0.86044	G:\qimage\object0017.view01.png 
+ normal and good match size: 910	565 match value: 0.620879	G:\qimage\object0193.view04.png 
+ normal and good match size: 910	764 match value: 0.83956	G:\qimage\object0023.view01.png 
+ normal and good match size: 910	366 match value: 0.402198	G:\qimage\object0023.view111105.JPG 
+ normal and good match size: 910	488 match value: 0.536264	G:\qimage\object0194.view02.png 
+ normal and good match size: 910	628 match value: 0.69011	G:\qimage\object0026.view03.png 
+ normal and good match size: 910	793 match value: 0.871429	G:\qimage\object0190.view04.png 
+ normal and good match size: 910	337 match value: 0.37033	G:\qimage\object0193.view05.png 
+ normal and good match size: 910	798 match value: 0.876923	G:\qimage\object0024.view03.png 
+ normal and good match size: 910	753 match value: 0.827473	G:\qimage\object0024.view01.png 
+ normal and good match size: 910	578 match value: 0.635165	G:\qimage\object0195.view03.png 
+ normal and good match size: 910	722 match value: 0.793407	G:\qimage\object0024.view05.png 
+ normal and good match size: 910	249 match value: 0.273626	G:\qimage\object0189.view01.png 
+ normal and good match size: 910	531 match value: 0.583516	G:\qimage\object0196.view01.png 
+ normal and good match size: 910	658 match value: 0.723077	G:\qimage\object0019.view04.png 
+ normal and good match size: 910	716 match value: 0.786813	G:\qimage\object0194.view01.png 
+ normal and good match size: 910	592 match value: 0.650549	G:\qimage\object0198.view05.png 
+ normal and good match size: 910	737 match value: 0.80989	G:\qimage\object0026.view02.png 
+ normal and good match size: 910	539 match value: 0.592308	G:\qimage\object0027.view04.png 
+ normal and good match size: 910	341 match value: 0.374725	G:\qimage\object0195.view04.png 
+ normal and good match size: 910	714 match value: 0.784615	G:\qimage\object0019.view03.png 
+ normal and good match size: 910	651 match value: 0.715385	G:\qimage\object0020.view04.png 
+ normal and good match size: 910	768 match value: 0.843956	G:\qimage\object0201.view03.png 
+ normal and good match size: 910	70 match value: 0.0769231	G:\qimage\object0022.view04.png 
+ normal and good match size: 910	311 match value: 0.341758	G:\qimage\object0017.view02.png 
+ normal and good match size: 910	289 match value: 0.317582	G:\qimage\object0026.view01.png 
+ normal and good match size: 910	169 match value: 0.185714	G:\qimage\object0201.view04.png 
+ normal and good match size: 910	554 match value: 0.608791	G:\qimage\object0186.view01.png 
+ normal and good match size: 910	673 match value: 0.73956	G:\qimage\object0025.view05.png 
+ normal and good match size: 910	752 match value: 0.826374	G:\qimage\object0025.view04.png 
+ normal and good match size: 910	754 match value: 0.828571	G:\qimage\object0199.view01.png 
+ normal and good match size: 910	786 match value: 0.863736	G:\qimage\object0017.view03.png 
+ normal and good match size: 910	647 match value: 0.710989	G:\qimage\object0190.view02.png 
+ normal and good match size: 910	428 match value: 0.47033	G:\qimage\object0026.view05.png 
+ normal and good match size: 910	740 match value: 0.813187	G:\qimage\object0021.view02.png 
+ normal and good match size: 910	710 match value: 0.78022	G:\qimage\object0022.view01.png 
+ normal and good match size: 910	675 match value: 0.741758	G:\qimage\object0191.view05.png 
+ normal and good match size: 910	402 match value: 0.441758	G:\qimage\object0025.view03.png 
+ normal and good match size: 910	667 match value: 0.732967	G:\qimage\object0185.view05.png 
+ normal and good match size: 910	335 match value: 0.368132	G:\qimage\object0188.view01.png 
+ normal and good match size: 910	231 match value: 0.253846	G:\qimage\object0197.view05.png 
+ normal and good match size: 910	419 match value: 0.46044	G:\qimage\object0198.view04.png 
+ normal and good match size: 910	272 match value: 0.298901	G:\qimage\object0186.view02.png 
